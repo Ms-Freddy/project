@@ -1,7 +1,7 @@
 "use strict" ;
 
 
-//const result = confirm("ти тут каброн ?");
+//const result = confirm("Ты здесь  каброн ?", "");
 
 //console.log(result);
 
